@@ -1,0 +1,848 @@
+[
+  {
+    "id": "emp-muf43b1mx0zz",
+    "codigo": "70102045",
+    "apellidosNombres": "TARAZONA ARCE, TANIA ISABEL",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2024-05-04",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2024-05-04"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "PRODUCCION",
+    "cargo": "INSPECTOR DE PRODUCCION",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1mun9f",
+    "codigo": "45483812",
+    "apellidosNombres": "VILELA CASTILLO, JHOAN FERNANDO",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2025-10-13",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2025-10-13"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "CONTABILIDAD",
+    "cargo": "ASISTENTE CONTABLE",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1le14l",
+    "codigo": "02862242",
+    "apellidosNombres": "PERICHE LOPEZ, SILVIA ELIZABETH",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2024-05-15",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2024-05-15"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS AGRARIO CASMA - PLAN",
+    "area": "PRODUCCION",
+    "cargo": "JEFE DE",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1kwwuw",
+    "codigo": "46298458",
+    "apellidosNombres": "MEDINA ZAVALETA, HELAR NEISER",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2026-01-07",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-01-07"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS AGRARIO CASMA - PLAN",
+    "area": "PRODUCCION",
+    "cargo": "JEFE DE P",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1k0dkp",
+    "codigo": "74774869",
+    "apellidosNombres": "MORE COBEÑAS, SANDY PAOLA",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2026-11-05",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-11-05"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1i5kbw",
+    "codigo": "75192396",
+    "apellidosNombres": "JAUREGUI SANTOS, KARINA LUISA",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2025-12-15",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2025-12-15"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS AGRARIO CASMA - PLAN",
+    "area": "SISTEMA INTEGRA DE GESTION",
+    "cargo": "SUPERVISOR DE S.S.T",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1hfa4k",
+    "codigo": "71381934",
+    "apellidosNombres": "GAMBOA AGUILAR, BRYAN ALEXIS",
+    "documentoIdentidad": "71381934",
+    "fechaIngreso": "2020-07-12",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2020-07-12"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "E",
+    "area": "PRODUCCION",
+    "cargo": "COORDINADOR DE ALMACEN",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1gohst",
+    "codigo": "72162625",
+    "apellidosNombres": "FERNANDEZ VEGA, KENNY RYAN",
+    "documentoIdentidad": "72162625",
+    "fechaIngreso": "2024-04-15",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2024-04-15"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "MANTENIMIENTO",
+    "cargo": "TECNICO ELECTRICISTA",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1fvkba",
+    "codigo": "74280038",
+    "apellidosNombres": "CHOIS VELASQUEZ, JUAN JOSE",
+    "documentoIdentidad": "74280038",
+    "fechaIngreso": "2024-10-21",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2024-10-21"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "COSTOS",
+    "cargo": "ASISTENTE DE CO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1f0v5n",
+    "codigo": "72206366",
+    "apellidosNombres": "CASTILLO PULIDO, KIARA REGINA",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2026-03-08",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-03-08"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "INSPECTOR DE MICROBIOLOGÍA",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1d4r43",
+    "codigo": "76823980",
+    "apellidosNombres": "AMAYA CULQUI, JEAMPIERRE BRYAN",
+    "documentoIdentidad": "76823980",
+    "fechaIngreso": "2026-01-26",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-01-26"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "ADMINISTRACION",
+    "cargo": "DESARROLLADOR DE SOFTWARE",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1bf9mm",
+    "codigo": "40049712",
+    "apellidosNombres": "AGUIRRE TREJO, ELVA MARIA",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2012-04-06",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2012-04-06"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "ADMINISTRACION",
+    "cargo": "ANALISTA ADMI",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.314Z",
+    "updatedAt": "2026-10-03T14:27:31.314Z"
+  },
+  {
+    "id": "emp-muf43b1e78r4",
+    "codigo": "76738555",
+    "apellidosNombres": "BARRANZUELA LOPEZ, KARLA JULIXA",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2025-08-20",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2025-08-20"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "PRODUCCION",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.315Z",
+    "updatedAt": "2026-10-03T14:27:31.315Z"
+  },
+  {
+    "id": "emp-muf43b1fdeaq",
+    "codigo": "42057258",
+    "apellidosNombres": "CHUMPITAZI ALVAREZ, CARLOS ALBERTO",
+    "documentoIdentidad": "42057258",
+    "fechaIngreso": "2026-02-23",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-02-23"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "GERENCIAS",
+    "cargo": "ANALISTA",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.315Z",
+    "updatedAt": "2026-10-03T14:27:31.315Z"
+  },
+  {
+    "id": "emp-muf43b1g06j4",
+    "codigo": "47118395",
+    "apellidosNombres": "CUBAS QUISPE, DARWIN MICHAEL",
+    "documentoIdentidad": "47118395",
+    "fechaIngreso": "2026-06-25",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-06-25"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "E",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.315Z",
+    "updatedAt": "2026-10-03T14:27:31.315Z"
+  },
+  {
+    "id": "emp-muf43b1grbbg",
+    "codigo": "74472178",
+    "apellidosNombres": "FLORES CORDOVA, LULLIANOVA",
+    "documentoIdentidad": "74472178",
+    "fechaIngreso": "2026-08-06",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-08-06"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.315Z",
+    "updatedAt": "2026-10-03T14:27:31.315Z"
+  },
+  {
+    "id": "emp-muf43b1k9kqb",
+    "codigo": "73968922",
+    "apellidosNombres": "MONZON RUIZ, FLAVIO VENANCIO",
+    "documentoIdentidad": "73968922",
+    "fechaIngreso": "2025-10-13",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2025-10-13"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "",
+    "area": "RECURSOS HUMANOS",
+    "cargo": "ANALISTA DE NOMINAS",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.315Z",
+    "updatedAt": "2026-10-03T14:27:31.315Z"
+  },
+  {
+    "id": "emp-muf43b1l7fjm",
+    "codigo": "73487135",
+    "apellidosNombres": "OLAVARRIA CAMPOS, JULINHO ALDAIR",
+    "documentoIdentidad": "73487135",
+    "fechaIngreso": "2025-08-19",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2025-08-19"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "PRODUCCION",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.315Z",
+    "updatedAt": "2026-10-03T14:27:31.315Z"
+  },
+  {
+    "id": "emp-muf43b1lssg5",
+    "codigo": "44741162",
+    "apellidosNombres": "PRETEL CAPILLO, JACK ANDERSON",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2013-04-03",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2013-04-03"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "MANTENIMIENTO",
+    "cargo": "COORDINADOR MTTO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.315Z",
+    "updatedAt": "2026-10-03T14:27:31.315Z"
+  },
+  {
+    "id": "emp-muf43b1mrp3y",
+    "codigo": "72939576",
+    "apellidosNombres": "ZEGARRA RUPAY, JORGE LUIS",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2025-01-12",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2025-01-12"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS AGRARIO CASMA - PLAN",
+    "area": "PRODUCCION",
+    "cargo": "SUPERVISOR DE PRODUCC",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.315Z",
+    "updatedAt": "2026-10-03T14:27:31.315Z"
+  },
+  {
+    "id": "emp-muf43b1lajvt",
+    "codigo": "73680066",
+    "apellidosNombres": "PAZO TORRES, JORGE SAMIR",
+    "documentoIdentidad": "73680066",
+    "fechaIngreso": "2026-04-05",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-04-05"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "ADMINISTRACION",
+    "cargo": "JEFE DE TI",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.324Z",
+    "updatedAt": "2026-10-03T14:27:31.324Z"
+  },
+  {
+    "id": "emp-muf43b1kjz81",
+    "codigo": "70225806",
+    "apellidosNombres": "MARTINEZ QUILLASH, KETTY LISBETH",
+    "documentoIdentidad": "70225806",
+    "fechaIngreso": "2024-10-14",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2024-10-14"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "PRODUCCION",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.324Z",
+    "updatedAt": "2026-10-03T14:27:31.324Z"
+  },
+  {
+    "id": "emp-muf43b1j5gfl",
+    "codigo": "76546406",
+    "apellidosNombres": "MARCELO ZAIRA, ESTHER ESTEFANNY",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2026-02-13",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-02-13"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "SUPERVISOR DE MICROBIOLOGÍA",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.324Z",
+    "updatedAt": "2026-10-03T14:27:31.324Z"
+  },
+  {
+    "id": "emp-muf43b1i3hp4",
+    "codigo": "005227115",
+    "apellidosNombres": "LUGO DELGADO, RONALDO JESUS",
+    "documentoIdentidad": "005227115",
+    "fechaIngreso": "2026-05-08",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-05-08"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "RECURSOS HUMANOS",
+    "cargo": "AUXILIAR ADMINISTRATIVO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.324Z",
+    "updatedAt": "2026-10-03T14:27:31.324Z"
+  },
+  {
+    "id": "emp-muf43b1hciem",
+    "codigo": "10695464",
+    "apellidosNombres": "HUACCHILLO CUNYA, JANY MERLY",
+    "documentoIdentidad": "10695464",
+    "fechaIngreso": "2026-05-18",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-05-18"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "E",
+    "area": "SISTEMA INTEGRA DE GESTION",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.324Z",
+    "updatedAt": "2026-10-03T14:27:31.324Z"
+  },
+  {
+    "id": "emp-muf43b1ge5d2",
+    "codigo": "E3289755",
+    "apellidosNombres": "DIAZ GUEVARA, SYUL JOSE",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2026-04-06",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-04-06"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS AGRARIO CASMA - PLAN",
+    "area": "PRODUCCION",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.324Z",
+    "updatedAt": "2026-10-03T14:27:31.324Z"
+  },
+  {
+    "id": "emp-muf43b1fscpd",
+    "codigo": "61501542",
+    "apellidosNombres": "CHAMBA ABAD, LUCIANA ELIZABETH",
+    "documentoIdentidad": "61501542",
+    "fechaIngreso": "2026-04-13",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-04-13"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.324Z",
+    "updatedAt": "2026-10-03T14:27:31.324Z"
+  },
+  {
+    "id": "emp-muf43b1evhbb",
+    "codigo": "76776069",
+    "apellidosNombres": "BARRIOS FLOR, JOSE EDUARDO",
+    "documentoIdentidad": "76776069",
+    "fechaIngreso": "2026-01-07",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-01-07"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.324Z",
+    "updatedAt": "2026-10-03T14:27:31.324Z"
+  },
+  {
+    "id": "emp-muf43b1d1acz",
+    "codigo": "71452134",
+    "apellidosNombres": "AYALA RIVAS, JEFFERSON ROLANDO",
+    "documentoIdentidad": "71452134",
+    "fechaIngreso": "2026-06-01",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-06-01"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.324Z",
+    "updatedAt": "2026-10-03T14:27:31.324Z"
+  },
+  {
+    "id": "emp-muf43b1eazrm",
+    "codigo": "74527384",
+    "apellidosNombres": "BARTUREN GABRIEL, ESDIN DANILO",
+    "documentoIdentidad": "74527384",
+    "fechaIngreso": "2026-04-13",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-04-13"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "CONTABILIDAD",
+    "cargo": "ASISTENTE CONTABLE",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.325Z",
+    "updatedAt": "2026-10-03T14:27:31.325Z"
+  },
+  {
+    "id": "emp-muf43b1fikfw",
+    "codigo": "43907621",
+    "apellidosNombres": "CAVERO TARAZONA, NELLY ELENA",
+    "documentoIdentidad": "43907621",
+    "fechaIngreso": "2012-05-27",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2012-05-27"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "E",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "ANALISTA DE CAL",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.325Z",
+    "updatedAt": "2026-10-03T14:27:31.325Z"
+  },
+  {
+    "id": "emp-muf43b1g81os",
+    "codigo": "75923123",
+    "apellidosNombres": "ESPINOZA RAMIREZ, LIZETH ROSMERY",
+    "documentoIdentidad": "75923123",
+    "fechaIngreso": "2023-12-30",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2023-12-30"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "PRODUCCION",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.325Z",
+    "updatedAt": "2026-10-03T14:27:31.325Z"
+  },
+  {
+    "id": "emp-muf43b1gsctc",
+    "codigo": "74161563",
+    "apellidosNombres": "ESPINOZA RAMIREZ, MIRTHA NANCY",
+    "documentoIdentidad": "74161563",
+    "fechaIngreso": "2012-05-18",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2012-05-18"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "PRODUCCION",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.325Z",
+    "updatedAt": "2026-10-03T14:27:31.325Z"
+  },
+  {
+    "id": "emp-muf43b1iqdd0",
+    "codigo": "32129226",
+    "apellidosNombres": "JARA CADILLO, ADRIAN ALEJANDRO",
+    "documentoIdentidad": "32129226",
+    "fechaIngreso": "2008-05-30",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2008-05-30"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS AGRARIO CASMA - CAMP",
+    "area": "CAMPO",
+    "cargo": "SUPERVISOR",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.325Z",
+    "updatedAt": "2026-10-03T14:27:31.325Z"
+  },
+  {
+    "id": "emp-muf43b1k910e",
+    "codigo": "72837395",
+    "apellidosNombres": "MILLA FLORES, ANYI LIZET",
+    "documentoIdentidad": "72837395",
+    "fechaIngreso": "2026-06-01",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-06-01"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.325Z",
+    "updatedAt": "2026-10-03T14:27:31.325Z"
+  },
+  {
+    "id": "emp-muf43b1l5f6r",
+    "codigo": "76083749",
+    "apellidosNombres": "SANCHEZ RODRIGUEZ, ALICIA NICOLL",
+    "documentoIdentidad": "76083749",
+    "fechaIngreso": "2025-06-10",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2025-06-10"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.325Z",
+    "updatedAt": "2026-10-03T14:27:31.325Z"
+  },
+  {
+    "id": "emp-muf43b1lorab",
+    "codigo": "41411052",
+    "apellidosNombres": "RIOFRIO MIO, MIGUEL ANGEL",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2013-08-23",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2013-08-23"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "SISTEMA INTEGRA DE GESTION",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.325Z",
+    "updatedAt": "2026-10-03T14:27:31.325Z"
+  },
+  {
+    "id": "emp-muf43b1mfmjf",
+    "codigo": "48398398",
+    "apellidosNombres": "SERNAQUE FLORES, ROMARIO MIGUEL",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2026-06-15",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-06-15"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS GENERAL CASMA - PLAN",
+    "area": "MANTENIMIENTO",
+    "cargo": "TECNICO ELECTRÓNICO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.325Z",
+    "updatedAt": "2026-10-03T14:27:31.325Z"
+  },
+  {
+    "id": "emp-muf43b1lx52u",
+    "codigo": "75834244",
+    "apellidosNombres": "REYES ROJAS, ALEXIS GIOMAR",
+    "documentoIdentidad": "75834244",
+    "fechaIngreso": "2026-03-18",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-03-18"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.327Z",
+    "updatedAt": "2026-10-03T14:27:31.327Z"
+  },
+  {
+    "id": "emp-muf43b1lc1wm",
+    "codigo": "02824483",
+    "apellidosNombres": "ODAR JIMENEZ, JOSE ALEJANDRO",
+    "documentoIdentidad": "02824483",
+    "fechaIngreso": "2026-06-22",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-06-22"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "E",
+    "area": "RECURSOS HUMANOS",
+    "cargo": "JEFE DE RR.HH",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.327Z",
+    "updatedAt": "2026-10-03T14:27:31.327Z"
+  },
+  {
+    "id": "emp-muf43b1kqcxm",
+    "codigo": "70247747",
+    "apellidosNombres": "MONTES LOPEZ, INGRID NATALEE",
+    "documentoIdentidad": "70247747",
+    "fechaIngreso": "2021-04-11",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2021-04-11"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "E",
+    "area": "RECURSOS HUMANOS",
+    "cargo": "SUPERVISOR DE BIENESTAR SOCIAL",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.327Z",
+    "updatedAt": "2026-10-03T14:27:31.327Z"
+  },
+  {
+    "id": "emp-muf43b1i3w88",
+    "codigo": "73306791",
+    "apellidosNombres": "LOPEZ PULACHE, JESUS ALDHAIR",
+    "documentoIdentidad": "73306791",
+    "fechaIngreso": "2026-10-04",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-10-04"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "ASEGURAMIENTO DE LA CALIDAD",
+    "cargo": "AUXILIAR ADMINISTRA",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.327Z",
+    "updatedAt": "2026-10-03T14:27:31.327Z"
+  },
+  {
+    "id": "emp-muf43b1hcmn3",
+    "codigo": "73540039",
+    "apellidosNombres": "GABRIEL GANOZA, JHORMA ERWIN",
+    "documentoIdentidad": "73540039",
+    "fechaIngreso": "2024-09-10",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2024-09-10"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "E",
+    "area": "MANTENIMIENTO",
+    "cargo": "TECNICO FRIGORISTA",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.327Z",
+    "updatedAt": "2026-10-03T14:27:31.327Z"
+  },
+  {
+    "id": "emp-muf43b1gi0ok",
+    "codigo": "61336293",
+    "apellidosNombres": "CISNEROS CORTEZ, VICTOR MANUEL",
+    "documentoIdentidad": "61336293",
+    "fechaIngreso": "2024-08-26",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2024-08-26"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "PRODUCCION",
+    "cargo": "SUPERVISOR DE PRODUCCION",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.327Z",
+    "updatedAt": "2026-10-03T14:27:31.327Z"
+  },
+  {
+    "id": "emp-muf43b1ftlmu",
+    "codigo": "71779700",
+    "apellidosNombres": "CCOYLLO TERRONES, EDWIN FARIT",
+    "documentoIdentidad": "",
+    "fechaIngreso": "2026-06-16",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-06-16"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EMPLEADOS AGRARIO CASMA - PLAN",
+    "area": "SISTEMA INTEGRA DE GESTION",
+    "cargo": "SUPERVISOR",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.327Z",
+    "updatedAt": "2026-10-03T14:27:31.327Z"
+  },
+  {
+    "id": "emp-muf43b1expn8",
+    "codigo": "75901319",
+    "apellidosNombres": "BURGOS AÑAZCO, ANGELO JOEL",
+    "documentoIdentidad": "75901319",
+    "fechaIngreso": "2025-08-20",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2025-08-20"
+    ],
+    "tipoTrabajador": "OBRERO",
+    "categoria": "OBREROS AGRARIO CASMA - PLANTA",
+    "area": "PRODUCCION",
+    "cargo": "EMPLEADO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.327Z",
+    "updatedAt": "2026-10-03T14:27:31.327Z"
+  },
+  {
+    "id": "emp-muf43b1d45mg",
+    "codigo": "42598214",
+    "apellidosNombres": "AVILA FLORES, JHONNY HEBERHT",
+    "documentoIdentidad": "42598214",
+    "fechaIngreso": "2026-04-05",
+    "fechaCese": null,
+    "fechasIngreso": [
+      "2026-04-05"
+    ],
+    "tipoTrabajador": "EMPLEADO",
+    "categoria": "EM",
+    "area": "MANTENIMIENTO",
+    "cargo": "TÉCNICO MECÁNICO",
+    "estado": "ACTIVO",
+    "createdAt": "2026-10-03T14:27:31.327Z",
+    "updatedAt": "2026-10-03T14:27:31.327Z"
+  }
+]

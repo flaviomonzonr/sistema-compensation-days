@@ -1,0 +1,91 @@
+:root {
+  /* Color Palette - Enterprise Slate & Royal Indigo/Blue */
+  --color-primary-50: #eef2ff;
+  --color-primary-100: #e0e7ff;
+  --color-primary-200: #c7d2fe;
+  --color-primary-500: #4f46e5;
+  --color-primary-600: #2563eb;
+  --color-primary-700: #1d4ed8;
+  --color-primary-800: #1e40af;
+  --color-primary-900: #1e3a8a;
+
+  /* Neutral Dark (Sidebar, Deep Contrast) */
+  --color-navy-950: #0a0f1d;
+  --color-navy-900: #0f172a;
+  --color-navy-800: #1e293b;
+  --color-navy-700: #334155;
+  --color-navy-600: #475569;
+  --color-navy-500: #64748b;
+  --color-navy-400: #94a3b8;
+  --color-navy-300: #cbd5e1;
+  --color-navy-200: #e2e8f0;
+  --color-navy-100: #f1f5f9;
+  --color-navy-50: #f8fafc;
+  --color-white: #ffffff;
+
+  /* State Status Semantic Accents */
+  /* Pendiente (Alerta / En espera -> Ámbar / Naranja suave) */
+  --status-pending-bg: #fffbeb;
+  --status-pending-text: #b45309;
+  --status-pending-border: #fde68a;
+  --status-pending-badge: #d97706;
+
+  /* Programado (Proceso activo -> Azul Cielo / Índigo) */
+  --status-scheduled-bg: #eff6ff;
+  --status-scheduled-text: #1d4ed8;
+  --status-scheduled-border: #bfdbfe;
+  --status-scheduled-badge: #2563eb;
+
+  /* Compensado (Éxito / Realizado -> Verde Esmeralda) */
+  --status-compensated-bg: #ecfdf5;
+  --status-compensated-text: #047857;
+  --status-compensated-border: #a7f3d0;
+  --status-compensated-badge: #059669;
+
+  /* Anulado / Cesado (Gris / Muted) */
+  --status-annulled-bg: #f1f5f9;
+  --status-annulled-text: #475569;
+  --status-annulled-border: #cbd5e1;
+  --status-annulled-badge: #64748b;
+
+  /* Danger / Error (Rojo) */
+  --status-danger-bg: #fef2f2;
+  --status-danger-text: #b91c1c;
+  --status-danger-border: #fecaca;
+  --status-danger-main: #dc2626;
+
+  /* Typography */
+  --font-main: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-display: 'Plus Jakarta Sans', var(--font-main);
+
+  /* Shadows */
+  --shadow-xs: 0 1px 2px 0 rgba(15, 23, 42, 0.05);
+  --shadow-sm: 0 1px 3px 0 rgba(15, 23, 42, 0.08), 0 1px 2px -1px rgba(15, 23, 42, 0.08);
+  --shadow-md: 0 4px 6px -1px rgba(15, 23, 42, 0.08), 0 2px 4px -2px rgba(15, 23, 42, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(15, 23, 42, 0.08), 0 4px 6px -4px rgba(15, 23, 42, 0.04);
+  --shadow-xl: 0 20px 25px -5px rgba(15, 23, 42, 0.1), 0 8px 10px -6px rgba(15, 23, 42, 0.06);
+  --shadow-modal: 0 25px 50px -12px rgba(15, 23, 42, 0.25);
+
+  /* Borders & Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 10px;
+  --radius-xl: 14px;
+  --radius-full: 9999px;
+
+  --border-color: #e2e8f0;
+  --border-color-dark: #cbd5e1;
+
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 350ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Z-Index hierarchy */
+  --z-base: 1;
+  --z-sticky: 100;
+  --z-drawer: 200;
+  --z-modal-backdrop: 500;
+  --z-modal: 510;
+  --z-toast: 999;
+}

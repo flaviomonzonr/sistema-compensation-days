@@ -1,0 +1,4 @@
+/* Keep the employee search results visible inside the scrollable form. */
+.worker-leave-page .permission-controls-card > * {
+  flex-shrink: 0;
+}
